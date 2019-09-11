@@ -1,3 +1,125 @@
+
+## Welcome to My Portfolio
+
+This page is about myself, my hobbies etc. Credits to **@codeforasia** and **@frae91** (Telegram) for helping me set up this page!
+The Navbar is created thanks to Frae's input!
+
+#### Overview
+  
+A brief description of myself
+
+
+#### Attributes/Features
+  
+Lists of my hobbies, attributes, and skillsets. 
+
+When I was creating this section, I wanted to show my personal progress in the 'skillset' section. Drwaing inspiration from what my friend Adil did, I made use of the Bootstrap utility 'progress' to achieve this.
+
+
+#### Gallery
+  
+Articles that are really interesting, so I thought why not share them on my page?
+
+
+#### Gallery
+  
+A sneak peek into my personal projects, my favourite sites, etc. 
+
+
+#### Contact Me
+  
+I tried to achieve a PHP-Google Sheet link with the form-submit function, but unfortunately Github only supports static pages, and not other server-side functionalities. Nevertheless, for aesthetic purposes, I keep the form-input layout and provide a link to a Google Form in another page to collate submission data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JohnnyChin/johnny.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
