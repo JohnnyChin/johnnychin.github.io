@@ -1,8 +1,11 @@
 
 ## Welcome to My Portfolio
+_Link:_ https://johnnychin.github.io/
 
 This page is about myself, my hobbies etc. Credits to **@codeforasia** and **@frae91** (Telegram) for helping me set up this page!
 The Navbar is created thanks to Frae's input!
+
+
 
 #### Overview
   
