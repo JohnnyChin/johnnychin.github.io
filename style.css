@@ -3,6 +3,6 @@ html, body, header, #intro {
 }
 
 #intro {
-    background-image: "Beautiful-White-Horse-Background-Wallpaper-07652.jpg" no-repeat center center fixed;
+    background-image: src="Beautiful-White-Horse-Background-Wallpaper-07652.jpg" no-repeat center center fixed;
     background-size: cover;
 }
