@@ -3,6 +3,6 @@ html, body, header, #intro {
 }
 
 #intro {
-    background: url("biking.jpg") no-repeat center center fixed;
+    background: url('biking.jpg') no-repeat center center fixed;
     background-size: cover;
 }
