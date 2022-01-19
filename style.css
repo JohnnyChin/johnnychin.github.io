@@ -6,3 +6,10 @@ html, body, header, #intro {
     background: url('biking.jpg') no-repeat center center fixed;
     background-size: cover;
 }
+
+.img-fluid {    
+    max-height: 100%;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
