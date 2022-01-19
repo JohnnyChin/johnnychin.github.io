@@ -1,4 +1,4 @@
-html, body, header, #intro {
+html, body, header, #intro, .container-fluid, .img-fluid {
     height: 100%;
 }
 
